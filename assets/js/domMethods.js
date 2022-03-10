@@ -35,5 +35,3 @@ function createEl(htmlString, attrs, ...children) {
 }
 
 module.exports = createEl;
-
-module.exports = createEl;
